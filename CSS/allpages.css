@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    background-color: rgb(104, 104, 101);
+    border: 1px solid rgb(95, 94, 94);
+    padding: .5%;
+}
+.navbar {
+    color: red;
+}
+h2 {
+    color:blue;
+}
+img {
+    width: 250px;
+    border-radius: 10px;
+    float: left;
+}
